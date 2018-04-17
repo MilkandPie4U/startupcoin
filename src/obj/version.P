@@ -1,0 +1,4 @@
+obj/version.o: version.cpp version.h clientversion.h \
+ /home/mike/Downloads/startupcoin/src/obj/build.h
+version.cpp version.h clientversion.h :
+ /home/mike/Downloads/startupcoin/src/obj/build.h :
